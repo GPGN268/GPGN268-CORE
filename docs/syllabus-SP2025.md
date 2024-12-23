@@ -14,7 +14,7 @@
 **Teaching Assistant**: James Clemson (he/his)  
 **GitHub Handle**: @jmclemson  
 **Email**: [jclemson@mines.edu](mailto:jclemson@mines.edu)    
-**Office Hours**: TBD
+**Office Hours**: TBD  
 **Office Hours Location**: Geophysics reading room
 
 ### 🌎 Welcome to **Geophysical Data Analysis**! 
