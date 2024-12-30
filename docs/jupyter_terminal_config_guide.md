@@ -1,0 +1,1 @@
+# Guide to Making Git Bash the Default Terminal in Jupyter Lab
