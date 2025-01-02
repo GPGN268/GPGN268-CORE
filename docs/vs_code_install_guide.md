@@ -31,7 +31,7 @@ VS Code does not by default use the Bash editor, nor does it independently work 
 ![VS Code Extensions Installation](guide_figures/vs_code_extensions_1.png)
 
 2. After these installations are complete, check to see if the extensions in the "Installed" tab of the "Extensions" tab match those shown in the example image (Required Package names highlighted in green). There should be 8 in total.
-![VS Code Extensions Verification]()
+![VS Code Extensions Verification](guide_figures/vs_code_extensions_2.png)
 
 3. Now, use the command `Ctrl + Shift + P` to enter the command palette (or click on the search bar at the top of the VS code window and type ">").
 ![VS Code Entering Command Palette](guide_figures/vs_code_bash_terminal_1.png)
