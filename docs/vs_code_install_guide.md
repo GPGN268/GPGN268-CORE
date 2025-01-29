@@ -43,20 +43,20 @@ VS Code does not by default use the Bash editor, nor does it independently work 
 ![VS Code Choosing Git Bash as Default Terminal](guide_figures/vs_code_bash_terminal_3.png)
 
 6. Select the "Manage Icon at the bottom of the toolbar on the left side of the VS Code window
-![VS Code Accessing Settings 1]()
+![VS Code Accessing Settings 1](guide_figures/vs_code_conda_configuration_1.png)
 
 7. Select "Settings" from the pop-up menu that appears
-![VS Code Accessing Settings 2]()
+![VS Code Accessing Settings 2](guide_figures/vs_code_conda_configuration_2.png)
 
 8. Search "shell integration" in the settings search bar, and then uncheck `Terminal > Integrated > Shell Integration` to disable it.
-![VS Code Disabling terminal.integrated.shellIntegration.enabled]()
+![VS Code Disabling terminal.integrated.shellIntegration.enabled](guide_figures/vs_code_conda_configuration_3.png)
 
 9. Search "activate environment" in the settings search bar, and then uncheck `Python > Terminal: Activate Environment` to disable it.
-![VS Code Disabling python.terminal.activateEnvironment]()
+![VS Code Disabling python.terminal.activateEnvironment](guide_figures/vs_code_conda_configuration_4.png)
 
 10. To verify that these settings have been correctly configured, select the "Open Settings (JSON)" button in the top right
-![VS Code Configuration Verification 1]()
-The settings json should have the 4 lines shown below.
-![VS Code Configuration Verification 2]()
+![VS Code Configuration Verification 1](guide_figures/vs_code_conda_configuration_5.png)
+The settings json should have the 4 lines shown below (If you have previously used VS Code, you may have additional lines configuring other settings).
+![VS Code Configuration Verification 2](guide_figures/vs_code_conda_configuration_6.png)
 
 After closing and reopening VS Code, any new terminals created should default to Git Bash. Additionally, the installed extensions will allow you to create and open Jupyter notebooks in VS Code simply by typing `code <filename>.ipynb` into the integrated Bash terminal. If Conda has been added to the Windows Path variable (see the [Anaconda Installation and Setup Guide](anaconda_install_guide.md) for instructions on how to do this) then conda commands may be run from the integrated Bash Terminal (__NOTE:__ To use conda commands in the integrated terminal you must first run the command `source activate base` to enter the base conda environment.)
