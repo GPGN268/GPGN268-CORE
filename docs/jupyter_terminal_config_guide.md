@@ -4,7 +4,7 @@ Jupyter Labs will be used frequently throughout the semester, however its defaul
 ## 1. Check if you have a `jupyter_notebook_config.py` File
 You must first check if a config file for jupyter notebook exists. If you have used Jupyter in the past, this file likely already exists, but if you are working on a fresh intallation of Jupyter, you will most likely need to create one.
 
-__a)__ First, navigate to the `.jupyter` file in your home user directory, as shown below. If this directory doesn't exist, proceed to step 2. If this is successful, go to step __b__.
+__a)__ First, navigate to the `.jupyter` file in your home user directory, as shown below. If this directory doesn't exist, proceed to step 2. If this is successful, go to step __1b__.
 ![checking_for_jupyter_config_file_in_terminal](guide_figures/jupyter_finding_source_directory.png)
 
 __b)__ Run `ls` in the `.jupyter` directory. If the output contains the file `jupyter_notebook_config.py`, proceed to step 3. If not, proceed to step 2.
@@ -12,7 +12,7 @@ __b)__ Run `ls` in the `.jupyter` directory. If the output contains the file `ju
 ## 2. Create a `jupyter_notebook_config.py` File
 - __NOTE:__ This step is only necessary if you do not already have this file, as determined in step 1. If the file already exists, skip this step and go to step 3.
 
-__a)__ Run the code `jupyter notebook --generate-config`. Afterwards, navigate to the newly created file and verify `jupyter_notebook_config.py, as shown below.
+__a)__ Run the code `jupyter notebook --generate-config`. Afterwards, navigate to the newly created file and verify that `jupyter_notebook_config.py` now exists, as shown below.
 ![creating_jupyter_config_file_in_terminal](guide_figures/jupyter_creating_config_file.png)
 
 ## 3. Modify `jupyter_notebook_config.py` to make Bash the Default Terminal
@@ -24,7 +24,7 @@ c.NotebookApp.terminado_settings = {
     'shell_command': ['C:\\Program Files\\Git\\bin\\bash.exe']
     }
 ```
-The exact location within the file does not strictly matter. If unsure, insert it in the line below `c = get_config()   #noqa`. For an example, see the image below (`cat` command was used to print out the file for visualization purposes).
+This file will have many commented lines with explanations for configuring jupyter settings (lines beginning with `#`). The exact location within the file does not strictly matter, however, and we may ignore these commented lines. If unsure, insert it in the line below `c = get_config()   #noqa`. For an example, see the image below (The `cat` command is used to show where the lines were inserted in the vim editor).
 ![example_modified_config_file_output](guide_figures/jupyter_modified_config_file_output.png)
 
 ## Conclusion
