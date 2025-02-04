@@ -54,6 +54,7 @@ Count how many lines there are in each of the "A" files and each of the "B" file
 Delete the `.txt` files in the main `north-pacific-gyre` folder that end with "Z".
 
 ##### Task 6
+__Note:__ Please still record the commands you will use to achieve this step in `shell-assignment.md`
 - Save your `shell-assigment.md`
 - Exit Vim
 - Move your  `shell-assigment.md` to the `short-assignments` directory.
