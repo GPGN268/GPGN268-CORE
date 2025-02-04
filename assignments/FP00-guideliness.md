@@ -65,7 +65,7 @@ A final project repository with a remote hosted on GitHub. The repository should
 	- Summarize your main findings and their significance.
  	- Suggest areas for future research that could build on your findings.
 	- Acknowledgments: Thank those who have supported your group project if applicable (any peers, friends, mentors, other faculty, etc.)
-	- Keep your presentation under 10 min so there is planty time for questions from the audience.
+	- Keep your presentation under 10 min so there is plenty of time for questions from the audience.
 	- **Have fun!** This is your opportunity to showcase all the hard work you have put into your research project.
 
 -   There will be time for Q&A/discussion and feedback after each presentation    
