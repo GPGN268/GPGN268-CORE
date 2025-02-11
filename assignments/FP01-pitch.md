@@ -13,7 +13,7 @@ $ jupyter lab
 - Copy the Template below to your file and complete the prompts.
 - If you already have a group, great! You can discuss this as a group, but complete the worksheet individually. If you have chosen a topic, but don't have a group yet, also great! Go trhough the exercise below regardless. 
 - After completing the prompts in the worksheet, save the file, shutdown Jupyter Lab, add your file to git, commit, and push. 
-- Prepare a ~1 min pitch based on the worksheet to share with the class on **Thursday, Feb 23**.
+- Prepare a ~1 min pitch based on the worksheet to share with the class on **Thursday, Feb 13**.
 
 
 ## Final Project Worksheet Draft
