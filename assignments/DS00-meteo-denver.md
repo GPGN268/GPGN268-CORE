@@ -1,4 +1,4 @@
-# SA03 - Python Basics
+# DS00 - Denver meteorological data
 
 ### 🎯 Objectives: 
 In this assignment, you will begin exploring meteorological data from the Denver Water Department. You will be evaluated by:
