@@ -13,15 +13,15 @@ $ jupyter lab
 - Copy the Template below to your file and complete the prompts.
 - If you already have a group, great! You can discuss this as a group, but complete the worksheet individually. If you have chosen a topic, but don't have a group yet, also great! Go trhough the exercise below regardless. 
 - After completing the prompts in the worksheet, save the file, shutdown Jupyter Lab, add your file to git, commit, and push. 
-- Prepare a ~1 min pitch based on the worksheet to share with the class on **Thursday, Feb 23**.
+- Prepare a ~1 min pitch based on the worksheet to share with the class on **Thursday, Feb 13**.
 
 
 ## Final Project Worksheet Draft
 **Draft title:**   
 **Group Members (2-3):**
- 
-1. What topic are you interested in?
-2. What specific part of the topic are you interested in? (Break down the topic and group ideas in clusters. Brainstorm all possible directions and write your ideas down. You will narrow this down later)
-3.  List a few possible research questions about your specific topic area.
-4.  List the types of data and some potential public data repositories that you could use to address your question.
+
+- **✨ Motivation**: 
+- **🤔 Question and Hypothesis**: 
+- **📈 How are you going to answer/test:**
+    - List the types of data and some potential public data repositories that you could use to address your question.
 
