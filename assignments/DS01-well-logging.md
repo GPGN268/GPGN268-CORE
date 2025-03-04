@@ -11,7 +11,7 @@ Your ultimate goal will be to reproduce and analyze the summary plot below. You 
 - Research! Read the matplotlib documentation, google "matplotlib + what you're trying to do", etc.
 - Ask a peer
 - Create a post in the GitHub discussions with your question
-- Ask me or Seunghoo
+- Ask me or James
 
 ![](media/372-U1517A_log_summary.png)
 
