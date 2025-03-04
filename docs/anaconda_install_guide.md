@@ -57,3 +57,9 @@ The bash terminal will not automatically detect the Anaconda software and thus t
 
 Conda should now be accessible and usable through the Bash terminal. To verify this, open up a new bash shell and type `conda --version`. It should report the current conda version, as shown in the image below.
 ![Test conda bash integration](guide_figures/conda_bash_integration_09.png)
+
+## Using Conda on Bash for Windows
+- Whenever opening a new terminal, check to see if conda is running (check if the name of the current environment is shown in parentheses above the prompt, as shown in the image below). If this line doesn't show up, run `source activate base` before any conda commands. This will load conda for the current shell.
+![Check if Conda is Active in Terminal]()
+
+- When creating new conda environments using `conda create`, install python (or whatever language you plan to use) when initializing it (Ex: `conda create -n <environment_name> python`). If you have a truly empty environment, it will automatically load the system python installation, which can lead to unexpected behavior.
