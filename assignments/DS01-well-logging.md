@@ -17,7 +17,7 @@ Your ultimate goal will be to reproduce and analyze the summary plot below. You 
 
 ### Preparation
 
-- Navigate to your `ds01-well-log` directory and launch Jupyter Lab. Remember to activate conda first if you are using Gitbash.
+- Navigate to your `ds01-well-log` directory and launch Jupyter Lab. Remember to activate conda first if you are using Gitbash and then activate the GPGN268 environement.
 
 ```
 $ cd ~/work/classes/GPGN268/coursework-lastname/ds01-well-log/
