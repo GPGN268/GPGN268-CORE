@@ -47,6 +47,9 @@ A final project repository with a remote hosted on GitHub. The repository should
 3. A directory tree for your project that follows [best practices in scientific computing](https://github.com/GPGN-268/GPGN268-CORE/blob/main/lecture-notes/L03-files-directories.md)
 4. All code necessary to reproduce your analysis (Bash scripts, python scripts, auxiliary Jupyter notebooks) + a main Jupyter notebook containing your results and figures.
 
+#### ‼️ Example
+At the end, your final project repository should look something like [this](https://github.com/archive-GPGN-268-SP23/FP06-volcano-seismology/tree/main)
+
 ### 📽️ In-Class Presentations
 
  Each group will prepare and deliver a ~10-minute presentation/demo in Week 15.
