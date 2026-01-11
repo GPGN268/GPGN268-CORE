@@ -4,7 +4,7 @@
 **Instructor**: Ryan Du  
 **Email**: [ryan.du@mines.edu](mailto:ryan.du@mines.edu)  
 **Class Meeting Time**: Mon/Wed 2:30-3:45  
-**Class Location**: TBA  
+**Class Location**: Green Center, Room 228  
 **Credit Hours**: 3.0  
 **Class Web Site**: https://github.com/GPGN268  
 **Ryan's Office Location**: TBA  
@@ -29,7 +29,7 @@ This course focuses on open-ended problem-solving that requires combining teamwo
 You may find the course schedule [here](https://github.com/GPGN268). Please keep in mind that this is a tentative schedule, and I anticipate changing it as we move through the material – monitor the course GitHub page for current topics and deadlines.
 
 ### 📚 Course Material
-There is no required text for this course. As we move thorough the semester, course material and external resources will be made available on [GPGN268-CORE](https://github.com/GPGN268/GPGN268-CORE)
+There is no required text for this course. As we move thorough the semester, course material and external resources will be made available on a [jupyter book](https://gpgn268.github.io/GPGN268-BOOK/)
 
 ### 💻 Required Technology:
 - Laptop (Mac, Linux, or Windows) with at least 6 GB of free disk space. Please come talk to me as soon as possible if you need help finding a laptop that you can use for the course.
