@@ -8,6 +8,7 @@
 **Credit Hours**: 3.0  
 **Class Web Site**: https://github.com/GPGN268  
 **Ryan's Office Hours**: Mondays 4-5 pm
+**Ryan's Office Location**: ECB 424
 
 **Teaching Assistant**: Jack Logan  
 **Email**: jacklogan@mines.edu      
