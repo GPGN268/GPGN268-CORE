@@ -1,7 +1,7 @@
 # GPGN 268 – Geophysical Data Analysis – Spring 2025
 
 ### ⚙️ Practical Information 
-**Instructor**: Ryan Du  
+**Instructor**: Ryan Du (he/him)
 **Email**: [ryan.du@mines.edu](mailto:ryan.du@mines.edu)  
 **Class Meeting Time**: Mon/Wed 2:30-3:45  
 **Class Location**: Green Center, Room 228  
