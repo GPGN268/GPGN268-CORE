@@ -3,7 +3,7 @@ The goal of this assignment is to practice some basic shell commands. Please re
 
 #### PART I
 
-Open a terminal and navigate to your main GPGN268 coursework folder, which should look something like this (for windows, you could start in for Desktop, or anywhere you like as long as you can also find it in Explorer):
+Open a terminal and navigate to your main GPGN268 coursework folder, which should look something like this (you should have coursework-yourlastname, so that it is easier to identify your submission) (for Windows, you could start in for Desktop, or anywhere you like as long as you can also find it in Explorer):
 
 ```
 $ cd ~/work/classes/GPGN268/coursework-yourlastname/
