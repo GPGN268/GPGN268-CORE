@@ -60,6 +60,6 @@ $ vim README.md
 ```
 # Your Name
 ## Short Assignments
-### SA02 - GitHub 
+### SA03 - GitHub 
 - [My resume](link-to-your-resume)
 ```
