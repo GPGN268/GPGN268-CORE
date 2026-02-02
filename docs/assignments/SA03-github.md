@@ -1,5 +1,6 @@
 
 # 🪚 Sharpening the saw: GitHub
+Due end of day Monday Feb 9th 2026.
 
 ## Part I: Developing your resume 
 For this exercise, we will continue working on the `resume.md` file that you created earlier this week. First, open the terminal and navigate to your resume directory
