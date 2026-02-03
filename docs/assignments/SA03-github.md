@@ -51,6 +51,20 @@ $ cd ~/work/classes/GPGN268/coursework-yourlastname
 
 ⚠️ Remember to check for the status of your repository using `$ git log`. In case you made changes to `README.md` directly on GitHub (using the browser), you need to pull these changes to your local repository to make sure everything is in sync.
 
+⚠️ Sorry I got stuck in class, you can try this. After 
+```
+$ git remote add origin git@github.com:GPGN268/coursework-yourlastname.git
+```
+You should do
+```
+git pull --rebase origin main
+```
+Then
+```
+git push origin main
+```
+And that might work (data set size of 2). If that does not work for you, don't worry. You can edit the README.md on Github. But try to do the way below just for extra practive with git. Thanks!
+
 Open the `README.md` file that you created. Now, add a section "Short Assignments" to your file and add a link to your resume. Save. Stage and commit your changes. Push it to your remote repository.
 
 ```
@@ -63,3 +77,4 @@ $ vim README.md
 ### SA03 - GitHub 
 - [My resume](link-to-your-resume)
 ```
+
