@@ -63,7 +63,7 @@ Then
 ```
 git push origin main
 ```
-And that might work (data set size of 2). If that does not work for you, don't worry. You can edit the README.md on Github. But try to do the way below just for extra practive with git. Thanks!
+And that might work (data set size of 2). If that does not work for you, don't worry. You can edit the README.md on GitHub. But try to do tit he way below just for extra practice with git. Thanks!
 
 Open the `README.md` file that you created. Now, add a section "Short Assignments" to your file and add a link to your resume. Save. Stage and commit your changes. Push it to your remote repository.
 
