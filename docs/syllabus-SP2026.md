@@ -6,24 +6,25 @@
 **Class Meeting Time**: Mon/Wed 2:30-3:45  
 **Class Location**: Green Center, Room 228  
 **Credit Hours**: 3.0  
-**Class Web Site**: https://github.com/GPGN268  
-**Ryan's Office Hours**: Mondays 4-5 pm
+**Class Web Site**: https://github.com/GPGN268   
+**Ryan's Office Hours**: Mondays 4-5 pm  
 **Ryan's Office Location**: ECB 424
 
 **Teaching Assistant**: Jack Logan  
 **Email**: jacklogan@mines.edu      
-**Office Hours**: TBA  
-**Office Hours Location**: TBA
+**Office Hours**: Wednesdays 4-5 pm  
+**Office Hours Location**: ECB 4th floor
 
 ### 🌎 Welcome to **Geophysical Data Analysis**! 
-This course focuses on open-ended problem-solving that requires combining teamwork and communication skills with modern computational tools to solve geophysical problems. You will learn best practices of scientific computing which will provide you with a solid foundation for tackling practical data analysis problems in all areas of academia, industry, and government. We will work on applied problems that emphasize data acquisition and processing based on knowing what new information is necessary to solve a problem and where to find the information efficiently.  At the conclusion of the course, you will be able to
+This course focuses on open-ended problem-solving that requires combining teamwork and communication skills with statistics and modern computational tools to solve geophysical problems. You will learn basics of statistics and best practices of scientific computing which will provide you with a solid foundation for tackling practical data analysis problems in all areas of academia, industry, and government. We will work on applied problems that emphasize data acquisition and processing based on knowing what new information is necessary to solve a problem and where to find the information efficiently.  At the conclusion of the course, you will be able to
 
 - Find, process, visualize, analyze, and interpret multiple flavors of geophysical data;
 - Use Unix commands to work with files and directories;
 - Identify common geoscience data formats and the best tools to handle them;
 - Construct complete, well-structured programs in Python;
+- Basics of probability and statistics to understand and interpret data
 - Work in teams to solve geophysical problems and collaborate on projects through GitHub
--   Practice reproducible research through version control, documentation, and metadata aggregation.
+- Practice reproducible research through version control, documentation, and metadata aggregation.
 
 ### 📆 Course Schedule:
 You may find the course schedule [here](https://github.com/GPGN268). Please keep in mind that this is a tentative schedule, and I anticipate changing it as we move through the material – monitor the course GitHub page for current topics and deadlines.
