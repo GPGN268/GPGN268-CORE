@@ -1,5 +1,5 @@
 # Probability exercises
-Due end of day March 18th.
+Due end of day March 18th. Submit using Canvas.
 
 ### **Problem 1 — Valid Probability Measure**
 Define a sample space  
