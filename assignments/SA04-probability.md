@@ -3,13 +3,9 @@ Due end of day March 18th. Submit using Canvas.
 
 ### **Problem 1 — Valid Probability Measure**
 Define a sample space  
-$$
-\Omega = \{a, b, c, d\}
-$$
+$$\Omega = \{a, b, c, d\}$$
 and assign  
-$$
-\mathbb{P}(a)=0.2,\quad \mathbb{P}(b)=0.3,\quad \mathbb{P}(c)=x,\quad \mathbb{P}(d)=0.1.
-$$
+$$\mathbb{P}(a)=0.2,\quad \mathbb{P}(b)=0.3,\quad \mathbb{P}(c)=x,\quad \mathbb{P}(d)=0.1.$$
 
 1. Find all values of $x$ for which this defines a valid probability measure.  
 2. With the valid $x$, compute  
@@ -33,15 +29,9 @@ Let the sample space be all ordered triples of three consecutive observations (r
 
 ### **Problem 3 — Mixed CDF**
 Consider the function  
-$$
-F(x)=
-\begin{cases}
-0, & x<0\\
-0.4, & 0\le x<1\\
-0.4 + 0.3(x-1), & 1 \le x < 2\\
-1, & x\ge 2.
-\end{cases}
-$$
+```math
+F(x)=\begin{cases}0, & x<0\\0.4, & 0\le x<1\\0.4 + 0.3(x-1), & 1 \le x < 2\\1, & x\ge 2.\end{cases}
+```
 
 1. Verify that this is a valid CDF.  
 2. Identify the discrete and continuous components.  
@@ -83,14 +73,12 @@ Construct random variables $X$ and $Y$ that are **not independent** and show tha
 ### **Problem 5 — Discrete Conditional Probability**
 A seismic network detects either a **true event** ($E$) or **noise** ($N$). The joint probability distribution is:
 
-$$
-\begin{array}{c|cc}
+$$\begin{array}{c|cc}
  & E & N \\
 \hline
 \text{Detected} & 0.06 & 0.14 \\
 \text{Not Detected} & 0.04 & 0.76
-\end{array}
-$$
+\end{array}$$
 
 1. Compute the marginal probabilities: $\mathbb{P}(E)$, $\mathbb{P}(N)$, $\mathbb{P}(\text{Detected})$, and $\mathbb{P}(\text{Not Detected})$.  
 2. What is $\mathbb{P}(E | \text{Detected})$? (i.e., given that something was detected, what is the probability it was a true event?)  
@@ -104,9 +92,7 @@ Earthquakes arrive at a seismic station according to the following model (called
 
 - The waiting times between successive events are independently and identically distributed (i.i.d) exponential random variables with rate $\lambda > 0$.
 - If $W_i$ denotes the waiting time between event $i-1$ and event $i$, then  
-  $$
-  f_{W_i}(w) = \lambda e^{-\lambda w}, \qquad w > 0.
-  $$
+  $$f_{W_i}(w) = \lambda e^{-\lambda w}, \qquad w > 0.$$
 
 Let $N(t)$ be the total number of events observed in the time interval $[0,t]$.
 
