@@ -1,6 +1,6 @@
 # Probability exercises
 Due end of day March 18th. Submit using Canvas.
-
+---
 ### **Problem 1 — Valid Probability Measure**
 Define a sample space  
 $$\Omega = \{a, b, c, d\}$$
@@ -26,7 +26,7 @@ Let the sample space be all ordered triples of three consecutive observations (r
 2. Define the event "at least one $H$ occurs before any $L$ occurs."  
 3. Compute its probability if each of $\{H,L,N\}$ occurs independently with probabilities $\{0.3, 0.2, 0.5\}$.
 
-
+---
 ### **Problem 3 — Mixed CDF**
 Consider the function  
 ```math
@@ -70,6 +70,7 @@ Construct random variables $X$ and $Y$ that are **not independent** and show tha
 7. Compute $\mathrm{Cov}(X, Y)$.  
 8. Verify the identity: $\mathrm{Var}(X + Y) = \mathrm{Var}(X) + \mathrm{Var}(Y) + 2\mathrm{Cov}(X, Y)$.
 
+---
 ### **Problem 5 — Discrete Conditional Probability**
 A seismic network detects either a **true event** ($E$) or **noise** ($N$). The joint probability distribution is:
 
