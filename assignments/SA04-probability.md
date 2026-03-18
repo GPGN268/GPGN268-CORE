@@ -10,7 +10,7 @@ $$\mathbb{P}(a)=0.2,\quad \mathbb{P}(b)=0.3,\quad \mathbb{P}(c)=x,\quad \mathbb{
 1. Find all values of $x$ for which this defines a valid probability measure.  
 2. With the valid $x$, compute  
    - $\mathbb{P}(\\{a, c\\})$  
-   - $\mathbb{P}(\\{b, d^c\\})$
+   - $\mathbb{P}(\\{b, d\\}^c)$
 
 ---
 
