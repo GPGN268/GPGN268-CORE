@@ -52,7 +52,7 @@ At the end, your final project repository should look something like [this](http
 
 ### 📽️ In-Class Presentations
 
- Each group will prepare and deliver a ~10-minute presentation/demo in Week 15.
+ Each group will prepare and deliver a ~10-minute presentation/demo in Week 17.
 
 -  All group members are expected to contribute to the presentation.
 -   Format is flexible: can be slides (not necessary), scrolling through notebook(s), scrolling through markdown files
