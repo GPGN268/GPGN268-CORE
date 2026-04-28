@@ -87,7 +87,7 @@ At the end, your final project repository should look something like [this](http
 -   Clean up your repository and make sure only the necessary material is there. You may create a directory called `dev` and move old or unused files there.
 -   Update the section "How to use this repository" in the README with information about the notebooks used during processing and provide a clear indication of which notebooks contain the final results.
 	-   The goal is to help someone who is unfamiliar with your project quickly find the good stuff!
--   Submit the GitHub URL for your final project repo on Canvas before midnight on Tuesday, May 2nd. 
+-   Submit the GitHub URL for your final project repo on Canvas before midnight on Tuesday, May 12th. 
 
 ### 🚀 Optional: Share your amazing work!
 
